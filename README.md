@@ -38,8 +38,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeCroz67&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeCroz67&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=denis-albert&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denis-albert&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%"/>
 </p>
 
 ---
